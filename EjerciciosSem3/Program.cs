@@ -18,9 +18,9 @@ namespace EjerciciosSem3
                 Console.WriteLine("1. Ingresar nuevo dato lista 1");
                 Console.WriteLine("2. Ingresar nuevo dato lista 2");
                 Console.WriteLine("3. Listar elementos de la lista 1 (inicio al fin)");
-                Console.WriteLine("4. Listar elementos de la lista 1 (fin al inicio)");
+                //Console.WriteLine("4. Listar elementos de la lista 1 (fin al inicio)");
                 Console.WriteLine("5. Listar elementos de la lista 2 (inicio al fin)");
-                Console.WriteLine("6. Listar elementos de la lista 2 (fin al inicio)");
+                //Console.WriteLine("6. Listar elementos de la lista 2 (fin al inicio)");
                 Console.WriteLine("7. Unión, intersección y diferencia de dos listas");
                 Console.WriteLine("8. Reporte de examinación de dos listas");
                 Console.WriteLine("9. Invertir lista");
