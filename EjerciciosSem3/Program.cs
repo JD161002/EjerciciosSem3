@@ -15,7 +15,7 @@ namespace EjerciciosSem3
 
             do
             {
-                Console.WriteLine("HOLA soy jose");
+                Console.WriteLine("Hola soy jose");
                 Console.WriteLine("1. Ingresar nuevo dato lista 1");
                 Console.WriteLine("2. Ingresar nuevo dato lista 2");
                 Console.WriteLine("3. Listar elementos de la lista 1 (inicio al fin)");
